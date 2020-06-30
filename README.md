@@ -2,8 +2,7 @@
 
 # 1: Packages needed:
 
-opencv
-numpy
+pip install opencv-contrib-python
 
 # 2: Downloaded weights from yolov3 website:
 
