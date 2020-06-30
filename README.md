@@ -4,7 +4,7 @@
 
 pip install opencv-contrib-python
 
-# 2: Downloaded weights from yolov3 website:
+# 2: Download weights from yolov3 website:
 
 https://pjreddie.com/darknet/yolo/
 
