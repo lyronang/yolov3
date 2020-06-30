@@ -8,6 +8,6 @@ pip install opencv-contrib-python
 
 https://pjreddie.com/darknet/yolo/
 
-Choose the weights from YOLOv3-416.
+Choose the weights from YOLOv3-416 and place it into the same folder.
 
 
